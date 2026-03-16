@@ -51,7 +51,7 @@ Tabulation:1
 
 CIRCUIT DIAGRAM:
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/a31e40a9-6446-47a1-b055-17a26488245d" />
-src="https://github.com/user-attachments/assets/20e78a5c-3343-4bd1-ae87-7420ad864528" />
+
 ![alt text](<Screenshot 2026-03-11 141515.png>)
 
 Tabulation:2
