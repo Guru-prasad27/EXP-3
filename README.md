@@ -43,9 +43,11 @@ switch2.
 
 CIRCUIT DIAGRAM: 
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/c18e923a-38bc-4fb1-8d37-3463ef7ef7b2" />
+![alt text](<Screenshot 2026-03-11 140904.png>)
 
 Tabulation:1
 	<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/20e78a5c-3343-4bd1-ae87-7420ad864528" />
+![alt text](<Screenshot 2026-03-11 141515.png>)
 
 # Cross connection:
 
